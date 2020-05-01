@@ -1,0 +1,46 @@
+  body {
+    background-color: #fbfae1;
+  }
+
+  hr {
+    border-style: none;
+    border-top-color: #cef0b9;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    color: #64a36f;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  h3 {
+    color: #a3cd9e;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  p {
+    color: #649d66;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  table {
+    color: #649d66;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  ul {
+    color: #649d66;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  ol {
+    color: #649d66;
+    font-family: 'Raleway', sans-serif;    
+  }
+
+  form {
+    color: #649d66;
+    font-family: 'Raleway', sans-serif;
+  }
